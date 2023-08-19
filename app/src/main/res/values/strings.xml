@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="please_enter_your_name">Please Enter your Name</string>
+    <string name="next">Next</string>
+</resources>
